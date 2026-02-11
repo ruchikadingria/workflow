@@ -1,4 +1,4 @@
-# 🚀 Workflow – Employee Task Management System
+# Workflow – Employee Task Management System
 
 Workflow is a role-based task management application built using React.  
 It provides separate dashboards for Admin and Employees, allowing structured task assignment, tracking, and management.
@@ -6,7 +6,7 @@ It provides separate dashboards for Admin and Employees, allowing structured tas
 The application uses React Context API for global state management and Local Storage for data persistence.
 
 
-## 🔐 Role-Based Access
+## Role-Based Access
 
 - **Admin Dashboard**
   - Assign tasks to employees
@@ -20,7 +20,7 @@ The application uses React Context API for global state management and Local Sto
   - Visual task statistics (Pie Chart)
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React
 - Context API
@@ -30,7 +30,7 @@ The application uses React Context API for global state management and Local Sto
 - Vite
 
 
-## ✨ Features
+## Features
 
 - Role-based authentication (Admin / Employee)
 - Dynamic task assignment
