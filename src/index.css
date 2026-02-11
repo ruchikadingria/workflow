@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+*{
+  color: #fff;
+}
+
+body {
+  background-color: #111;
+}
+
+/* Custom scrollbar for task list */
+#tasklist {
+  scrollbar-width: thin;
+  scrollbar-color: #22c55e #020617;
+}
+
+#tasklist::-webkit-scrollbar {
+  width: 6px;
+}
+
+#tasklist::-webkit-scrollbar-track {
+  background: #020617;
+  border-radius: 9999px;
+}
+
+#tasklist::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #22c55e, #16a34a);
+  border-radius: 9999px;
+}
