@@ -41,22 +41,22 @@ The application uses React Context API for global state management and Local Sto
 - Responsive modern UI
 
 
-## 📸 Screenshots
+## Screenshots
 
-### 🔑 Login Page
+### Login Page
 ![Login](src/screenshots/Login.png)
 
-### 👨‍💼 Admin Dashboard
+### Admin Dashboard
 ![Admin Dashboard](src/screenshots/AdminDashboard.png)
 
-### 👩‍💻 Employee Dashboard
+### Employee Dashboard
 ![Employee Dashboard](src/screenshots/EmployeeDashboard.png)
 
-### 🆕 New Tasks
+### New Tasks
 ![New Tasks](src/screenshots/NewTasks.png)
 
-### ✅ Active Tasks
+### Active Tasks
 ![Active Tasks](src/screenshots/ActiveTasks.png)
 
-### 📌 Task Assigned
+### Task Assigned
 ![Task Assigned](src/screenshots/TaskAssigned.png)
